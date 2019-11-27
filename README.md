@@ -15,3 +15,32 @@ Agenda
 3. Sample Package
    - https://www.dropbox.com/s/w2ohqiisuebr0yg/MxManual_20191127.mpk?dl=0
    
+#####
+##
+
+https://github.com/Charlie13/Mendix
+
+https://gettingstarted.mendixcloud.com/link/path
+Academy 
+  -> Learning Path 
+    -> Become a Rapid Developer (Developer)
+ 
+#####
+##
+https://mxmanual20190913-sandbox.mxapps.io/index.html?profile=Responsive
+
+#####
+##
+mendix.com 계정 생성
+
+#####
+##
+Mendix Pro 설치
+
+#####
+##
+eclipse 설치
+
+#####
+##
+
