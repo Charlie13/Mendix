@@ -61,9 +61,7 @@ Project
     F6 / Deploy for eclipse
 
     Edit in eclipse or editor
-
-    > C:\Users\vdmb5t\Documents\Mendix\MxManual_20191127-main\javasource\javaactionset\actions
-      ReverseAssetName.java
+    C:\Users\xxxxxx\Documents\Mendix\MxManual_20191127-main\javasource\javaactionset\actions\ReverseAssetName.java
 
     	@java.lang.Override
 	public java.lang.String executeAction() throws Exception
