@@ -101,3 +101,18 @@ Project
  Navigation
   Page 등록
 
+
+
+#####
+##
+
+Rest API
+
+  https://docs.mendix.com/howto/integration/consume-a-rest-service
+  https://en.wikipedia.org/api/rest_v1/page/summary/{1}
+
+#####
+##
+
+
+
