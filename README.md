@@ -47,3 +47,45 @@ eclipse 설치
 #####
 ##
 
+#####
+##
+Project
+ -> Add Module
+   -> add 
+      Java Action set
+
+ -> Domain Model
+      Assets
+       AssetName
+       AssetId
+       AssetLocation
+
+
+ -> Overview Page
+    -> Object Page
+       -> MF Call
+          -> Java Action Call
+
+
+ -> Java Edit
+    F6 / Deploy for eclipse
+
+    Edit in eclipse or editor
+
+    > C:\Users\vdmb5t\Documents\Mendix\MxManual_20191127-main\javasource\javaactionset\actions
+      ReverseAssetName.java
+
+    	@java.lang.Override
+	public java.lang.String executeAction() throws Exception
+	{
+		this.inputAssets = __inputAssets == null ? null : javaactionset.proxies.Assets.initialize(getContext(), __inputAssets);
+
+		// BEGIN USER CODE
+		// throw new com.mendix.systemwideinterfaces.MendixRuntimeException("Java action was not implemented");
+		String assetsAssetName = this.inputAssets.getAssetName(this.getContext());
+		return new StringBuilder(assetsAssetName).reverse().toString();
+		// END USER CODE
+	}
+
+
+
