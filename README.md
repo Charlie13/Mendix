@@ -27,7 +27,7 @@ https://gettingstarted.mendixcloud.com/link/path
 Academy 
   -> Learning Path 
     -> Become a Rapid Developer (Developer)
- 
+
 #####
 ##
 https://mxmanual20190913-sandbox.mxapps.io/index.html?profile=Responsive
@@ -35,20 +35,12 @@ https://mxmanual20190913-sandbox.mxapps.io/index.html?profile=Responsive
 #####
 ##
 mendix.com 계정 생성
-
-#####
-##
 Mendix Pro 설치
-
-#####
-##
 eclipse 설치
+Mendix App Mobile
 
 #####
-##
-
-#####
-##
+## Java Action Set
 Project
  -> Add Module
    -> add 
@@ -60,13 +52,11 @@ Project
        AssetId
        AssetLocation
 
-
  -> Overview Page
     -> Object Page
        -> MF Call
           -> Java Action Call
-
-
+	  
  -> Java Edit
     F6 / Deploy for eclipse
 
@@ -87,7 +77,52 @@ Project
 		// END USER CODE
 	}
 
+#####
+## iFrame
 
+ Add Modulde 
+  iframe
+  domain model
+  MF Create iframehelper 
+  Page create
+  
+ Navigation
+  Page 등록
+
+ 
+
+#####
+##
+Image Edit
+
+#####
+## Customer Order with Database interoperation Microflow
+
+Project
+ -> Add Module
+   -> MyFirstModule
+   Domain Model
+     Entity Add
+       Customer
+         
+       Order
+
+     Generate Overview Pages
+
+    Project
+     -> Navigation
+        Menu edit
+        Customer
+          customer
+          order
+
+     Console
+       -> Advanced
+          -> start build-in database browser
+
+       SELECT a.* , b.*
+         FROM "PUBLIC"."myfirstmodule$customer" a
+           ,  "PUBLIC"."myfirstmodule$order" b
 
 #####
 ## iFrame
@@ -102,17 +137,32 @@ Project
   Page 등록
 
 
-
 #####
-##
-
-Rest API
+## Rest API
 
   https://docs.mendix.com/howto/integration/consume-a-rest-service
   https://en.wikipedia.org/api/rest_v1/page/summary/{1}
 
 #####
+## Excel Importer
+
+  https://docs.mendix.com/howto/integration/using-the-excel-exporter
+
+#####
+## Model Share
+
+  https://modelshare.mendix.com/models/514edca3-4cb4-491c-ae49-653dc3453a28/test-execute-statement-postgre-sql
+
+#####
+## QA
+
+  Project Template
+  > 공유
+
+  HTML 5 기반
+
+#####
 ##
 
-
-
+#####
+##
