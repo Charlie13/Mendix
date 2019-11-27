@@ -12,4 +12,6 @@ Agenda
    - Mendix Pro Install
    - Mendix Pro 소개
 
-3. 
+3. Sample Package
+   - https://www.dropbox.com/s/w2ohqiisuebr0yg/MxManual_20191127.mpk?dl=0
+   
