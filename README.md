@@ -15,8 +15,8 @@ Agenda
 3. Sample Package
    - https://www.dropbox.com/s/w2ohqiisuebr0yg/MxManual_20191127.mpk?dl=0
 
-4. Java Action Set
-   - https://docs.mendix.com/howto/logic-business-rules/extending-your-application-with-custom-java
+4. Register Link
+   - https://mxmanual20190913-sandbox.mxapps.io/index.html?profile=Responsive
 
 #####
 ##
@@ -24,13 +24,10 @@ Agenda
 https://github.com/Charlie13/Mendix
 
 https://gettingstarted.mendixcloud.com/link/path
+
 Academy 
   -> Learning Path 
     -> Become a Rapid Developer (Developer)
-
-#####
-##
-https://mxmanual20190913-sandbox.mxapps.io/index.html?profile=Responsive
 
 #####
 ##
@@ -41,6 +38,9 @@ Mendix App Mobile
 
 #####
 ## Java Action Set
+
+https://docs.mendix.com/howto/logic-business-rules/extending-your-application-with-custom-java
+
 Project
  -> Add Module
    -> add 
