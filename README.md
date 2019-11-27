@@ -7,5 +7,9 @@ Mendix Intro Session
 Agenda
 
 1. Mendix 소개
-2. Mendix 구성
-   - 
+
+2. Mendix Account @ mendix.com
+   - Mendix Pro Install
+   - Mendix Pro 소개
+
+3. 
