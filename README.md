@@ -14,7 +14,10 @@ Agenda
 
 3. Sample Package
    - https://www.dropbox.com/s/w2ohqiisuebr0yg/MxManual_20191127.mpk?dl=0
-   
+
+4. Java Action Set
+   - https://docs.mendix.com/howto/logic-business-rules/extending-your-application-with-custom-java
+
 #####
 ##
 
