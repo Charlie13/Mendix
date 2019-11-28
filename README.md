@@ -166,3 +166,24 @@ Project
 
 #####
 ## Debug
+
+https://docs.mendix.com/howto/logic-business-rules/create-your-first-microflow-hello-world#1-introduction
+
+#####
+## items
+
+
+#####
+## items
+
+
+#####
+## items
+
+
+#####
+## items
+
+
+#####
+## items
