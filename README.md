@@ -176,8 +176,9 @@ https://docs.mendix.com/howto/logic-business-rules/create-your-first-microflow-h
 - Console 영역의 Debug Window 참조
 
 #####
-## items
-
+## Barcode Scan & Google vision
+참조 Link
+https://www.dropbox.com/sh/s588rnbvwyx32p9/AABFj6I8gQfLIlPgL4rHKspia?dl=0
 
 #####
 ## Siemens Plant Simulation Sample
