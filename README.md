@@ -186,15 +186,29 @@ https://www.dropbox.com/sh/s588rnbvwyx32p9/AABFj6I8gQfLIlPgL4rHKspia?dl=0
 https://www.dropbox.com/s/l92vfp8tzhh69jb/Siemens_Plant_Maintenance_Inspections_KC.mpk?dl=0
 
 #####
-##
+## Microflow and menu
+
+https://docs.mendix.com/howto/logic-business-rules/create-your-first-microflow-hello-world#1-introduction
+
+- MicroFlow 정의
+- Add Breakpoint
+- 실행 후, 
+- Run -> Debug -> Connect Debuger
+
+- Console 영역의 Debug Window 참조
 
 #####
-## items
+## Tab Widget
+
+STS Demo 
+XPATH Expression
 
 
 #####
-## items
+## Rapid Advaanced Developer
 
+email - REG Expression
+After Commit - Microflow
 
 #####
 ## items
