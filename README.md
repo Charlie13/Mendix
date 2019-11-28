@@ -166,8 +166,14 @@ Project
 
 #####
 ## Debug
-
 https://docs.mendix.com/howto/logic-business-rules/create-your-first-microflow-hello-world#1-introduction
+
+- MicroFlow 정의
+- Add Breakpoint
+- 실행 후, 
+- Run -> Debug -> Connect Debuger
+
+- Console 영역의 Debug Window 참조
 
 #####
 ## items
