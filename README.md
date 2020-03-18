@@ -1,15 +1,19 @@
 # Mendix
 Mendix Intro Session
 
-일정: 2019.11.27~28 10:00 ~ 17:00
-장소: Siemens Office 12F
+일정: 20200318 10:00 ~ 16:00
+장소: LSIS 청주
 
 Agenda
 
 1. Mendix 소개
 
 2. Mendix Account @ mendix.com
+   - mendix.com
+   
    - Mendix Pro Install
+	https://appstore.home.mendix.com/
+
    - Mendix Pro 소개
 
 3. Sample Package
