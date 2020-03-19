@@ -1,8 +1,8 @@
 # Mendix
 Mendix Intro Session
 
-일정: 20200318 10:00 ~ 16:00
-장소: LSIS 청주
+일정: 20200319 10:00 ~ 16:00
+장소: Siemens 도곡동 12F 2 교육장
 
 Agenda
 
@@ -15,6 +15,11 @@ Agenda
 	https://appstore.home.mendix.com/
 
    - Mendix Pro 소개
+
+
+
+
+
 
 3. Sample Package
    - https://www.dropbox.com/s/w2ohqiisuebr0yg/MxManual_20191127.mpk?dl=0
