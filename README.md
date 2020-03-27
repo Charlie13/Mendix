@@ -1,8 +1,8 @@
 # Mendix
 Mendix Intro Session
 
-일정: 20200319 10:00 ~ 16:00
-장소: Siemens 도곡동 12F 2 교육장
+일정: 20200327 10:00 ~ 16:00
+장소: 한양대학교
 
 Agenda
 
