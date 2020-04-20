@@ -32,11 +32,36 @@ https://docs.mendix.com/howto/extensibility/build-javascript-actions
 - Build JavaScript Actions for Native Mobile
 
 
+#####
+##
+
+	1. Contents
+		a. Mendix Intro
+		b. Mendix Sample Application Development
+		c. Mobile Application Deployment
+		d. Data Model & Application
+			i. Micro Flow
+			ii. Rest API
+		e. Integration Demo
+			i. Team Center
+			ii. MindSphere
+			iii. RAPIDAUTHOR 
+	 
+	2. 참조 Link:
+		a. https://gettingstarted.mendixcloud.com/link/path
+		b. Mendix Studio Free Link
+			i. 회원가입 : https://signup.mendix.com/link/signup/?ref=143166
+			ii. Studio download : https://appstore.home.mendix.com/link/modelers/
+
+#####
+##
 3. Sample Package
    - https://www.dropbox.com/s/w2ohqiisuebr0yg/MxManual_20191127.mpk?dl=0
 
 4. Register Link
    - https://mxmanual20190913-sandbox.mxapps.io/index.html?profile=Responsive
+
+
 
 #####
 ##
