@@ -1,8 +1,8 @@
 # Mendix
 Mendix Intro Session
 
-일정: 20200327 10:00 ~ 16:00
-장소: 한양대학교
+일정: 20200420 10:00 ~ 16:00
+장소: SEMES
 
 Agenda
 
@@ -16,9 +16,20 @@ Agenda
 
    - Mendix Pro 소개
 
+Rest API
+https://docs.mendix.com/howto/integration/consume-a-rest-service
 
+Java Action
+https://docs.mendix.com/howto/logic-business-rules/extending-your-application-with-custom-java
 
-
+Java Script
+https://docs.mendix.com/refguide/javascript-actions
+https://docs.mendix.com/howto/extensibility/create-native-javascript-action
+https://docs.mendix.com/refguide/javascript-action-call
+https://docs.mendix.com/howto/extensibility/build-javascript-actions
+- Build JavaScript Actions: Part 1 (Basic)
+- Build JavaScript Actions: Part 2 (Advanced)
+- Build JavaScript Actions for Native Mobile
 
 
 3. Sample Package
