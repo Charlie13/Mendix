@@ -3,17 +3,17 @@
 일정: 20200422 10:00 ~ 17:00
 장소: Siemens 12층 1번 교육장
 
-Agenda
+# Agenda
 
-1. Mendix 소개
+# 1. Mendix 소개
 
-2. 참조 Link:
+# 2. 참조 Link:
     a. Mendix Studio Free Link
       i. 회원가입 : https://signup.mendix.com/link/signup/?ref=143166
       ii. Studio download : https://appstore.home.mendix.com/link/modelers/
     b. https://gettingstarted.mendixcloud.com/link/path
 
-3. Contents
+# 3. Contents
     a. Mendix Intro
     b. Mendix Sample Application Development
     c. Mobile Application Deployment
@@ -34,7 +34,7 @@ Agenda
     a. IoT Demo
     b. 전자 카탈로그 Demo
 
-참조:
+# 참조:
 
 https://github.com/Charlie13/Mendix
 https://gettingstarted.mendixcloud.com/link/path
