@@ -8,89 +8,40 @@ Agenda
 1. Mendix 소개
 
 2. 참조 Link:
-		a. Mendix Studio Free Link
-			i. 회원가입 : https://signup.mendix.com/link/signup/?ref=143166
-			ii. Studio download : https://appstore.home.mendix.com/link/modelers/
+    a. Mendix Studio Free Link
+      i. 회원가입 : https://signup.mendix.com/link/signup/?ref=143166
+      ii. Studio download : https://appstore.home.mendix.com/link/modelers/
     b. https://gettingstarted.mendixcloud.com/link/path
-		
+
 3. Contents
-		a. Mendix Intro
-		b. Mendix Sample Application Development
-		c. Mobile Application Deployment
-		d. Data Model & Application
-			i. Micro Flow
-			ii. Rest API
-		e. Integration Demo
-			i. Team Center
-			ii. MindSphere
-			iii. RAPIDAUTHOR 
-	 
+    a. Mendix Intro
+    b. Mendix Sample Application Development
+    c. Mobile Application Deployment
+    d. Data Model & Application
+      i. Micro Flow
+      ii. Rest API
+    e. Integration Demo
+      i. Team Center
+      ii. MindSphere
+      iii. RAPIDAUTHOR
+   
+  4. Domain Model & Microflow
+    a. https://docs.mendix.com/howto/data-models/denormalize-data-to-improve-performance
+  5. 공장라인 제품 불량관리
+  6. Database Connector - DB 연계 Test
+    a. 이 기종 DBMS 통합
+  7. Demo
+    a. IoT Demo
+    b. 전자 카탈로그 Demo
 
-
-
-
-Rest API
-https://docs.mendix.com/howto/integration/consume-a-rest-service
-
-Java Action
-https://docs.mendix.com/howto/logic-business-rules/extending-your-application-with-custom-java
-
-Java Script
-https://docs.mendix.com/refguide/javascript-actions
-https://docs.mendix.com/howto/extensibility/create-native-javascript-action
-https://docs.mendix.com/refguide/javascript-action-call
-https://docs.mendix.com/howto/extensibility/build-javascript-actions
-- Build JavaScript Actions: Part 1 (Basic)
-- Build JavaScript Actions: Part 2 (Advanced)
-- Build JavaScript Actions for Native Mobile
-
-
-#####
-##
-
-	1. Contents
-		a. Mendix Intro
-		b. Mendix Sample Application Development
-		c. Mobile Application Deployment
-		d. Data Model & Application
-			i. Micro Flow
-			ii. Rest API
-		e. Integration Demo
-			i. Team Center
-			ii. MindSphere
-			iii. RAPIDAUTHOR 
-	 
-	2. 참조 Link:
-		a. https://gettingstarted.mendixcloud.com/link/path
-		b. Mendix Studio Free Link
-			i. 회원가입 : https://signup.mendix.com/link/signup/?ref=143166
-			ii. Studio download : https://appstore.home.mendix.com/link/modelers/
-
-#####
-##
-3. Sample Package
-   - https://www.dropbox.com/s/w2ohqiisuebr0yg/MxManual_20191127.mpk?dl=0
-
-4. Register Link
-   - https://mxmanual20190913-sandbox.mxapps.io/index.html?profile=Responsive
-
-#####
-##
+참조:
 
 https://github.com/Charlie13/Mendix
-
 https://gettingstarted.mendixcloud.com/link/path
 
 Academy 
   -> Learning Path 
     -> Become a Rapid Developer (Developer)
-
-#####
-##
-mendix.com 계정 생성
-Mendix Pro 설치
-eclipse 설치
-Mendix App Mobile
 
 #####
 ## Java Action Set
@@ -130,18 +81,6 @@ Project
 		return new StringBuilder(assetsAssetName).reverse().toString();
 		// END USER CODE
 	}
-
-#####
-## iFrame
-
- Add Modulde 
-  iframe
-  domain model
-  MF Create iframehelper 
-  Page create
-  
- Navigation
-  Page 등록
 
 #####
 ## Image Edit
@@ -187,7 +126,6 @@ Project
  Navigation
   Page 등록
 
-
 #####
 ## Rest API
 
@@ -205,15 +143,7 @@ Project
   https://modelshare.mendix.com/models/514edca3-4cb4-491c-ae49-653dc3453a28/test-execute-statement-postgre-sql
 
 #####
-## QA
-
-  Project Template
-  > 공유
-
-  HTML 5 기반
-
-#####
-## Fce Recogninition with API Service
+## Face Recogninition with API Service
   https://facequote.zurich.co.uk/#/Upload_selfie
 
 #####
