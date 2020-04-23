@@ -25,15 +25,15 @@
       ii. MindSphere
       iii. RAPIDAUTHOR
    
-  4. Domain Model & Microflow
+# 4. Domain Model & Microflow
     a. https://docs.mendix.com/howto/data-models/denormalize-data-to-improve-performance
 
-  5. 공장라인 제품 불량관리
+# 5. 공장라인 제품 불량관리
 
-  6. Database Connector - DB 연계 Test
+# 6. Database Connector - DB 연계 Test
     a. 이 기종 DBMS 통합
 
- 7. Demo
+# 7. Demo
     a. IoT Demo
     b. 전자 카탈로그 Demo
 
