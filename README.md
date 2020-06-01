@@ -5,6 +5,19 @@
 
 # Agenda
 
+# 0. 인증시험
+6월30일 까지 한시적으로 "Rapid Certification exam 400$"을 무상으로 제공합니다.
+	Mendix 회원 가입 및 Studio Pro Download(8.8.1 최신 버전. 20200430 현재
+		회원가입 : https://signup.mendix.com/link/signup/?ref=143166
+		Studio download : https://appstore.home.mendix.com/link/modelers/
+	Learning Path 수강 (12시간 또는 24시간 강의 선택)
+		https://gettingstarted.mendixcloud.com/link/path
+		“Crash Course” 12 hours online course available here
+		또는 “Become a Rapid Developer (Developer)” 24 hours online course available for free here
+	인증시험 신청 (다음의 코들 사용)
+		Rapid Developer certificate here (50문항)
+		use the voucher code "LEVELUP2020"
+
 # 1. Mendix 소개
 
 # 2. 참조 Link:
