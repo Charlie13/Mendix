@@ -1,7 +1,7 @@
 # Mendix Mendix Intro Session
 
-일정: 20200422 10:00 ~ 17:00
-장소: Siemens 12층 1번 교육장
+일정: 20200601 10:00 ~ 12:00
+장소: Siemens 12층 3번 교육장
 
 # Agenda
 
