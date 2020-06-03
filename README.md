@@ -58,6 +58,7 @@ URL: https://gettingstarted.mendixcloud.com/link/module/97/lecture/818/11.1-The-
 # 3. Contents
     a. Mendix Intro
     b. Mendix Sample Application Development
+    	https://docs.mendix.com/apidocs-mxsdk/mxsdk/creating-the-domain-model
     c. Mobile Application Deployment
     d. Data Model & Application
       i. Micro Flow
