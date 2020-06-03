@@ -1,7 +1,7 @@
 # Mendix Mendix Intro Session
 
-일정: 20200601 10:00 ~ 12:00
-장소: Siemens 12층 3번 교육장
+일정: 20200603 09:30 ~ 17:00
+장소: Siemens 12층 2번 교육장
 
 # Agenda
 
@@ -28,6 +28,32 @@ Learning Path 수강 (12시간 또는 24시간 강의 선택)
       i. 회원가입 : https://signup.mendix.com/link/signup/?ref=143166
       ii. Studio download : https://appstore.home.mendix.com/link/modelers/
     b. https://gettingstarted.mendixcloud.com/link/path
+
+Mendix 교육 안
+
+구분	시간	내용
+9:30 ~ 10:00	Opening & Mendix 소개
+- Mendix Portal 가입 및 설치
+- 아키텍처
+- 기능 및 사례
+
+10:00 ~ 10:30	SDS 솔루션 소개 및 협의
+- Brity Works 등
+
+10:40 ~ 12:00	Mendix 기본 기능 교육
+- Sample App 개발 실습
+- 솔루션 기능 소개 및 실습 (REST API I/F 등)
+
+12:00 ~ 13:00	중식
+
+13:00 ~ 16:40	Mendix 활용 App 개발 워크샵
+- 생산라인 제품 불량 집계 App 개발
+- DB, UI, 로직 구현 등
+- 대시보드 개발
+		
+16:40 ~ 17:00	Wrap up
+- 솔루션 구현 및 협업 Open discussion
+
 
 # 3. Contents
     a. Mendix Intro
