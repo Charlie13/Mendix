@@ -18,6 +18,7 @@
 		또는 “Become a Rapid Developer (Developer)” 24 hours online course available for free here
 
 인증시험 신청 (다음의 코들 사용)
+URL: https://gettingstarted.mendixcloud.com/link/module/97/lecture/818/11.1-The-Rapid-Developer-Certification-Exam
 		Rapid Developer certificate here (50문항)
 		use the voucher code "LEVELUP2020"
 
