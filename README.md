@@ -11,8 +11,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTA2ZDgyNWItMDlkYy00OGQzL
       "https://marketplace.mendix.com/"
       "https://marketplace.mendix.com/link/studiopro/
       8.17 Download
-      ![8.17 Download](img/Mendix_Studio_pro_8.17.png?raw=true "Title")
-    
+      <img src="img/Mendix_Studio_pro_8.17.png" alt="Mendix Studio 8.18 Download" />
 
 # Agenda
 
