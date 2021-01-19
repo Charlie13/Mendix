@@ -7,11 +7,10 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTA2ZDgyNWItMDlkYy00OGQzL
 
 ## Mendix 회원 가입 및 Studio Pro Download(8.10.1 최신 버전. 2020.06.01 현재)
 		회원가입 : https://signup.mendix.com/link/signup/?ref=143166
-		Studio download : 
-      "https://marketplace.mendix.com/"
-      "https://marketplace.mendix.com/link/studiopro/
-      8.17 Download
-      <img src="img/Mendix_Studio_pro_8.17.png" alt="Mendix Studio 8.18 Download" />
+		Studio download : 8.17 Download 
+		"https://marketplace.mendix.com/"
+		"https://marketplace.mendix.com/link/studiopro/
+		
 
 # Agenda
 
