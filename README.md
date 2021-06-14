@@ -16,6 +16,8 @@
   - 또는 “Become a Rapid Developer (Developer)” 24 hours online course available for free here
   
 # 개발 실습 및 Demo
+- Denormalize Data to Improve Performance <br>
+- https://docs.mendix.com/howto/data-models/denormalize-data-to-improve-performance
 
 # Q&A
   "QA" <br>
