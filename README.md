@@ -6,9 +6,8 @@
   회원가입 : https://signup.mendix.com/link/signup/?ref=143166
 
 # Mendix Studio Download
-  https://marketplace.mendix.com/link/studiopro/
-  8.17 Download 및 설치
-  참조: Offline Install
+  https://marketplace.mendix.com/link/studiopro/ <br>
+  참조: Offline Install<br>
   "https://docs.mendix.com/howto/general/install#troubleshooting"
  
 # Learning Path
