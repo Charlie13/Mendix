@@ -1,11 +1,14 @@
 # Mendix
 # 교육 내용
+  10월20~22 3일간 1차<br>
+  Rapid Development Course
 
 # Mendix User 등록
   회원가입 : https://signup.mendix.com/link/signup/?ref=143166
 
 # Mendix Studio Download
   https://marketplace.mendix.com/link/studiopro/ <br>
+  9.6 설치 <br>
   참조: Offline Install<br>
   "https://docs.mendix.com/howto/general/install#troubleshooting"
  
