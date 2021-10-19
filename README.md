@@ -1,8 +1,8 @@
 # Mendix
 # 교육 내용
-  10월20~22 3일간 1차<br>
-  Rapid Development Course
-
+  10월20~22 3일간 1차 - Rapid Development Course + exam <br>
+  10월27~29 2차 <br>
+  11월3~5 3차 <br>
 # Mendix User 등록
   회원가입 : https://signup.mendix.com/link/signup/?ref=143166
 
