@@ -18,13 +18,9 @@
   - “Crash Course” 12 hours online course available here <br>
   - 또는 “Become a Rapid Developer (Developer)” 24 hours online course available for free here
   
-# 개발 실습 및 Demo
-- Denormalize Data to Improve Performance <br>
-- https://docs.mendix.com/howto/data-models/denormalize-data-to-improve-performance
 
 # Q&A
   "QA" <br>
-  "적용 방안 대한 논의" <br>
 
 # EOF
 
