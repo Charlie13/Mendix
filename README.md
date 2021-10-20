@@ -25,6 +25,17 @@
   - https://academy.mendix.com/link/paths/82/Crash-Course<br>
   - 
 
+# 참조 Link
+- Mendix 사이트(교육 등) https://www.mendix.com/<br>
+- Mendix Youtube 커뮤니티 채널 https://www.youtube.com/channel/UCybYiRhBPsLRcHeaqqsnovQ<br>
+- Mendix Youtube 채널 https://www.youtube.com/channel/UCM8pMKzsNP9sQ0IoANQ7FBg<br>
+- Mendix 개발자 Blog https://www.mendix.com/tag/developers/<br>
+- Mendix 커뮤니티 Blog https://developers.mendix.com/community-blog/<br>
+- Mendix 포럼 (기술 Q&A) https://forum.mendixcloud.com/index3.html<br>
+- Mendix Market Place https://marketplace.mendix.com/index.html<br>
+
+
+
 # Q&A
   "QA" <br>
 
