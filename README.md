@@ -13,7 +13,7 @@
   9.6 설치 <br>
   참조: Offline Install<br>
   "https://docs.mendix.com/howto/general/install#troubleshooting"
- 
+
 # Learning Path
   Learning Path 수강 (12시간 또는 24시간 강의 선택)<br>
   - https://academy.mendix.com/link/home <br>
@@ -24,6 +24,9 @@
 
   “Crash Course” 12 hours online course available here <br>
   - https://academy.mendix.com/link/paths/82/Crash-Course<br>
+
+# certification voucher
+  "MXW_21_EXAMS"
 
 # 참조 Link
 <pre>
