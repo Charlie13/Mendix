@@ -18,12 +18,11 @@
   - https://academy.mendix.com/link/home <br>
   - https://academy.mendix.com/link/paths <br>
   
-  - “Become a Rapid Developer (Developer)” 24 hours online course available for free here<br>
+  “Become a Rapid Developer (Developer)” 24 hours online course available for free here<br>
   - https://academy.mendix.com/link/paths/31/Become-a-Rapid-Developer <br>
-  - 
-  - “Crash Course” 12 hours online course available here <br>
+
+  “Crash Course” 12 hours online course available here <br>
   - https://academy.mendix.com/link/paths/82/Crash-Course<br>
-  - 
 
 # 참조 Link
 - Mendix 사이트(교육 등) https://www.mendix.com/<br>
