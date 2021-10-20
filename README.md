@@ -1,7 +1,7 @@
 # Mendix
 # 교육 내용
   10월20 - 22 3일간 1차 Rapid Development Course + exam <br>
-    - Files :   00. Tutorial for Rapid Developer_ko.pptm<br>
+  - Files :   00. Tutorial for Rapid Developer_ko.pptm<br>
   10월27 - 29 2차 <br>
   11월3 - 5 3차 <br>
 # Mendix User 등록
@@ -25,18 +25,17 @@
   - https://academy.mendix.com/link/paths/82/Crash-Course<br>
 
 # 참조 Link
-- Mendix 사이트(교육 등) https://www.mendix.com/<br>
-- Mendix Youtube 커뮤니티 채널 https://www.youtube.com/channel/UCybYiRhBPsLRcHeaqqsnovQ<br>
-- Mendix Youtube 채널 https://www.youtube.com/channel/UCM8pMKzsNP9sQ0IoANQ7FBg<br>
-- Mendix 개발자 Blog https://www.mendix.com/tag/developers/<br>
-- Mendix 커뮤니티 Blog https://developers.mendix.com/community-blog/<br>
-- Mendix 포럼 (기술 Q&A) https://forum.mendixcloud.com/index3.html<br>
-- Mendix Market Place https://marketplace.mendix.com/index.html<br>
-
+<pre>
+- Mendix 사이트(교육 등) https://www.mendix.com/
+- Mendix Youtube 커뮤니티 채널 https://www.youtube.com/channel/UCybYiRhBPsLRcHeaqqsnovQ
+- Mendix Youtube 채널 https://www.youtube.com/channel/UCM8pMKzsNP9sQ0IoANQ7FBg
+- Mendix 개발자 Blog https://www.mendix.com/tag/developers/
+- Mendix 커뮤니티 Blog https://developers.mendix.com/community-blog/
+- Mendix 포럼 (기술 Q&A) https://forum.mendixcloud.com/index3.html
+- Mendix Market Place https://marketplace.mendix.com/index.html
+</pre>
 # Q&A
-'''
-  "QA"
-'''
+  QA
 
 # EOF
 
