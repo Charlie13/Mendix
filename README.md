@@ -2,6 +2,7 @@
 # 교육 내용
 - 10월20 - 22 3일간 1차 Rapid Development Course + exam
   - Files :   00. Tutorial for Rapid Developer_ko.pptm
+  - https://github.com/Charlie13/Mendix/blob/master/files/00.%20Tutorial%20for%20Rapid%20Developer_ko.pptm
 - 10월27 - 29 2차
 - 11월3 - 5 3차
 # Mendix User 등록
