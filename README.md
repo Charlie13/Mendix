@@ -15,10 +15,15 @@
  
 # Learning Path
   Learning Path 수강 (12시간 또는 24시간 강의 선택)<br>
-  - https://gettingstarted.mendixcloud.com/link/path <br>
-  - “Crash Course” 12 hours online course available here <br>
-  - 또는 “Become a Rapid Developer (Developer)” 24 hours online course available for free here
+  - https://academy.mendix.com/link/home <br>
+  - https://academy.mendix.com/link/paths <br>
   
+  - “Become a Rapid Developer (Developer)” 24 hours online course available for free here<br>
+  - https://academy.mendix.com/link/paths/31/Become-a-Rapid-Developer <br>
+  - 
+  - “Crash Course” 12 hours online course available here <br>
+  - https://academy.mendix.com/link/paths/82/Crash-Course<br>
+  - 
 
 # Q&A
   "QA" <br>
