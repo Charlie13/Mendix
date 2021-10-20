@@ -1,4 +1,4 @@
-# Mendix
+# Mendix https://github.com/Charlie13/Mendix
 # 교육 내용
 - 10월20 - 22 3일간 1차 Rapid Development Course + exam
   - Files :   00. Tutorial for Rapid Developer_ko.pptm
